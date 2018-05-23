@@ -1,0 +1,32 @@
+{
+  "name": "table-dnd-sortable",
+  "version": "1.0.1",
+  "description": "Make table rows sortable by drag and drop",
+  "main": "./dist/table-dnd-sortable.js",
+  "types": "./dist/table-dnd-sortable.d.ts",
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^2.8.3"
+  },
+  "scripts": {
+    "tsc": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/techird/table-dnd-sortable.git"
+  },
+  "keywords": [
+    "dnd",
+    "table",
+    "sortable",
+    "drag",
+    "drop"
+  ],
+  "author": "techird@q\tq.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/techird/table-dnd-sortable/issues"
+  },
+  "homepage": "https://github.com/techird/table-dnd-sortable#readme"
+}
